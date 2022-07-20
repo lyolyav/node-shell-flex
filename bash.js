@@ -7,3 +7,5 @@ const pwd = require('./pwd');
 pwd();  // what difference does it make invoking the function here or not
 
 
+const fs = require('fs');
+fs()
